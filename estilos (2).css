@@ -1,0 +1,33 @@
+body {
+  background-color: bisque;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.icon {
+  width: 3em;
+  height: 3em;
+  display: inline-block;
+  margin: 0 2em;
+  cursor: pointer;
+}
+
+table, td {
+  width: 50%;
+  margin: 0 auto;
+  border: 1px solid darkblue;
+  border-collapse: collapse;
+}
+
+th {
+  line-height: 1.2em;
+  background-color: darkblue;
+  color: white;
+}
+
+td {
+  background-color: gainsboro;
+  color: darkblue;
+  width: 50%;
+}
